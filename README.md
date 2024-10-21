@@ -19,11 +19,12 @@ The model will prompt for:
 - Date of sale (YYYY-MM-DD)
 
 Example command:
-Enter store number: 1
-Enter product family: AUTOMOTIVE
-Is the product on promotion? (1 for Yes, 0 for No): 0
-Enter date (YYYY-MM-DD): 2013-01-01
-
+```
+- Enter store number: 1
+- Enter product family: AUTOMOTIVE
+- Is the product on promotion? (1 for Yes, 0 for No): 0
+- Enter date (YYYY-MM-DD): 2013-01-01
+```
 
 The model will predict the product sales based on the input provided.
 
